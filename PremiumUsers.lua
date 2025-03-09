@@ -24,4 +24,5 @@ return {
     "Alexsantosarmjm",
     "keit8483",
     "Roblox",
+    "Sigma",
 }
