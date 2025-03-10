@@ -22,5 +22,4 @@ return {
     "Dreamer_playz9",
     "Alexsantosarmjm",
     "keit8483",
-    "GG_FGHS",
 }
