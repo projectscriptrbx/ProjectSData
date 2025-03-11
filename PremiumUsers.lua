@@ -1,5 +1,4 @@
 return {
-    "GG_FGHS",
     "helpmegr1nd",
     "vitor097329",
     "THC_WIFI99",
